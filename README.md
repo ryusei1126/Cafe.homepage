@@ -4,7 +4,7 @@ Cafe Homepage is a simple cafe landing page built with HTML and CSS.
 
 ## URL
 
-https://github.com/ryusei1126/Cafe.homepage
+https://ryusei1126.github.io/Cafe.homepage/
 
 ## Files
 
